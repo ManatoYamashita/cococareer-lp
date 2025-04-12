@@ -15,7 +15,7 @@ export const metadata = {
     siteName: 'COCO CAREER',
     images: [
       {
-        url: `${baseUrl}/ogp.jpg`,
+        url: `${baseUrl}/assets/ogp.jpg`,
         width: 1200,
         height: 630,
         alt: 'COCO CAREER',
@@ -28,7 +28,7 @@ export const metadata = {
     card: 'summary_large_image',
     title: 'COCO CAREER - 学生と企業をつなぐキャリアサポートサービス',
     description: 'COCO CAREERは、学生と企業を繋ぐ長期インターン掲載プラットフォームです。採用を賭けから戦略に変える、新しいキャリアサポートサービスです。',
-    images: [`${baseUrl}/ogp.jpg`],
+    images: [`${baseUrl}/assets/ogp.jpg`],
   },
   robots: {
     index: true,
