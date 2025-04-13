@@ -1,6 +1,9 @@
 # COCO CAREER LP
 
 COCO CAREERは、学生と企業を繋ぐ長期インターン掲載プラットフォームのランディングページです。
+稲井美結 （COCO MOTION CEO）様の依頼で製作したLPでございます。
+
+![ogp](https://github.com/user-attachments/assets/09b9b326-fccb-40cd-9fd2-af9ebb316f0b)
 
 ## 特徴
 
@@ -11,7 +14,7 @@ COCO CAREERは、学生と企業を繋ぐ長期インターン掲載プラット
 
 ## 技術スタック
 
-- **フレームワーク**: Next.js 15.2.4
+- **フレームワーク**: Next.js 15.2.4（Approuter）
 - **言語**: TypeScript
 - **スタイリング**: Tailwind CSS
 - **アニメーション**: Framer Motion
@@ -37,7 +40,7 @@ COCO CAREERは、学生と企業を繋ぐ長期インターン掲載プラット
 
 1. リポジトリのクローン
 ```bash
-git clone [repository-url]
+git clone https://github.com/ManatoYamashita/cococareer-lp.git
 cd cococareer-lp
 ```
 
@@ -59,16 +62,9 @@ yarn dev
 ```
 http://localhost:3000
 ```
+---
 
-## デプロイ
+## Copyright
 
-このプロジェクトはVercelにデプロイされています。mainブランチへのプッシュで自動的にデプロイが行われます。
-
-## ライセンス
-
-このプロジェクトは[ライセンス名]の下でライセンスされています。
-
-## お問い合わせ
-
-プロジェクトに関するお問い合わせは、[お問い合わせ先]までご連絡ください。
-# cococareer-lp
+©︎ 2025 稲井美結 （COCO MOTION/COCO CAREER）
+Desinged by [Manato Yamashita](https://manapuraza.com)
